@@ -9,8 +9,6 @@ function max (a, b){
 }
 
 
-
-
 function isLandscape(width, height) {
     
     if (width > height) return true;
